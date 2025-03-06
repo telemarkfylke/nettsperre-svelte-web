@@ -4,6 +4,9 @@
 
 Grupper:
 1. NETTSPERRE-EKSAMEN-MAN
+2. NETTSPERRE-FORMS-MED-OPPLASTING
+3. NETTSPERRE-FORMS-UTEN-OPPLASTING 
+
 <!-- NETTSPERRE-PROVE-MAN -->
 <!-- NETTSPERRE-TEAMS-MAN  -->
 <!-- NETTSPERRE-OFFLINE-MAN -->
@@ -20,10 +23,11 @@ En Webapp med sveltekit som er hostet i vercel.
 Løsningen gir lærere og andre superbrukere mulighet til å sperre undervisningsgrupper og enkelt elever fra ulike løsninger og internett. 
 
 De ulike sperrene: 
-1. Prøve. (TBA)
-2. Kun tilgang til teams. (TBA)
-3. Eksamen.
-4. Offline. (TBA)
+1. NETTSPERRE-EKSAMEN-MAN - Eksamen med eksamenshjelpemidler
+2. NETTSPERRE-FORMS-MED-OPPLASTING - Prøve i Forms uten filopplastning og uten eksamenshjelpemidler
+3. NETTSPERRE-FORMS-UTEN-OPPLASTING - Prøve i Forms med filopplastning og med eksamenshjelpemidler
+
+
 
 ## Deploye løsningen 
 ### Requirements
