@@ -319,6 +319,13 @@
                                     <label for="radio5" value="">Prøve i Forms med filopplastning og med eksamenshjelpemidler</label>
                                 </div>
                             {/if}
+   			   <p>
+        			De nye prøvemodusene gir mulighet for å gjennomføre prøver digitalt, men de er ikke feilfri. 
+      		  		Det er teknisk mulighet å samarbeide via forms mellom elever. Ved bruk av forms med filopplasting må også elevenes OneDrive være tilgjengelig. 
+        			Det er fint for elevene som har tilgang til alt sitt, men gjør det teknisk mulig å f.eks. samskrive i dokumenter. Vær obs på dette når prøven gjennomføres. 
+        			De lokale IT-superheltene på skolen din kan forklare mer om forskjellene, mulighetene og begrensningene. 
+        			Ved å velge Eksamen er det ikke mulighet for samarbeid.
+    			   </p>
                         </div>
                         <h3>Velg tidspunkt for sperringen.</h3>
                         <div class="dateTimePicker">
