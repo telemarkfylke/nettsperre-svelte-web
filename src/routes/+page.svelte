@@ -320,7 +320,7 @@
                                 </div>
                             {/if}
    			   <p>
-        			De nye prøvemodusene gir mulighet for å gjennomføre prøver digitalt, men de er ikke feilfri. 
+        			De nye prøvemodusene gir mulighet for å gjennomføre prøver digitalt, men de er ikke feilfrie. 
       		  		Det er teknisk mulighet å samarbeide via forms mellom elever. Ved bruk av forms med filopplasting må også elevenes OneDrive være tilgjengelig. 
         			Det er fint for elevene som har tilgang til alt sitt, men gjør det teknisk mulig å f.eks. samskrive i dokumenter. Vær obs på dette når prøven gjennomføres. 
         			De lokale IT-superheltene på skolen din kan forklare mer om forskjellene, mulighetene og begrensningene. 
