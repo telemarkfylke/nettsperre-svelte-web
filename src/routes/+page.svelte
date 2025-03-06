@@ -325,6 +325,7 @@
         			Det er fint for elevene som har tilgang til alt sitt, men gjør det teknisk mulig å f.eks. samskrive i dokumenter. Vær obs på dette når prøven gjennomføres. 
         			De lokale IT-superheltene på skolen din kan forklare mer om forskjellene, mulighetene og begrensningene. 
         			Ved å velge Eksamen er det ikke mulighet for samarbeid.
+				<br>Husk at elevene må starte maskinen på nytt for at sperring skal virke, og når de skal ut av sperring.</br>
     			   </p>
                         </div>
                         <h3>Velg tidspunkt for sperringen.</h3>
