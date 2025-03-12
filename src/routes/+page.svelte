@@ -328,7 +328,7 @@
 				<br>Husk at elevene må starte maskinen på nytt for at sperring skal virke, og når de skal ut av sperring.</br>
     			   </p>
                         </div>
-                        <h3>Velg tidspunkt for sperringen.</h3>
+                        <h3>Velg tidspunkt 10 minutter før elevene skal sperres. </h3>
                         <div class="dateTimePicker">
                             <label for="startTime">Start tidspunkt:</label>
                             <input type="datetime-local" disabled={processing ? processing : processing} id="startTime" name="startTime">
