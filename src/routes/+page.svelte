@@ -291,7 +291,7 @@
                             {#if import.meta.env.VITE_DISABLE_EKSAMEN !== 'true'}
                                 <div>
                                     <input type="radio" disabled={processing ? processing : processing} id="radio1" name="radioGroup" value="Eksamensmodus">
-                                    <label for="radio1">Eksamen med eksamenshjelpemidler</label>
+                                    <label for="radio1">Eksamen med eksamenshjelpemidler/Sikker nettleser med hjelpemidler</label>
                                 </div>
                             {/if}
                             <!-- <input type="radio" id="radio2" name="radioGroup" value="option2">

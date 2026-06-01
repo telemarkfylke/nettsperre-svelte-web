@@ -382,7 +382,7 @@
                                     {#if import.meta.env.VITE_DISABLE_EKSAMEN !== 'true'}
                                         <div>
                                             <input type="radio" id="radio1" name="radioGroup" value="Eksamensmodus" disabled={!editBlockType} checked={detailsData.typeBlock.type === 'eksamen' ? true : ''}>
-                                            <label for="radio1">Eksamen med eksamenshjelpemidler</label>
+                                            <label for="radio1">Eksamen med eksamenshjelpemidler/Sikker nettleser med hjelpemidler</label>
                                         </div>
                                     {/if}
 
@@ -398,7 +398,7 @@
                                     {#if import.meta.env.VITE_DISABLE_FORMS !== 'true'}
                                         <div>
                                             <input type="radio" id="radio4" name="radioGroup" value="forms" disabled={!editBlockType} checked={detailsData.typeBlock.type === 'forms' ? true : ''}>
-                                            <label for="radio4">Prøve i Forms uten filopplastning og uten eksamenshjelpemidler</label>
+                                            <label for="radio4">Prøve i Forms uten filopplastning og uten eksamenshjelpemidler/Sikker nettleser - kun Word</label>
                                         </div>
                                     {/if}
                                     {#if import.meta.env.VITE_DISABLE_FORMS_FILE !== 'true'}
